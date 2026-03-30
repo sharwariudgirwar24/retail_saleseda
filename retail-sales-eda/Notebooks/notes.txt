@@ -1,0 +1,5 @@
+#Quartile = np.Quartile([col_nme]0.25)
+lower_bound = 1.5 * IQR
+
+
+Filling null vlue syntax = df["col_nme] =
